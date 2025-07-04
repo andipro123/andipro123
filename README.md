@@ -5,13 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:janiket510@gmail.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=andipro123.andipro123)
 
-Welcome to my Github page! I am Aniket Jayateerth, a third year CSE student at College of Engineering, Pune
+Welcome to my Github page! I am Aniket Jayateerth, a curious software engineer.
 
-
-#### 🦾 Things I am currently challenging myself with:
-- Learning new technologies and languages 💠
-- Taking up new projects ⚒️
-- Learning guitar 🎸
 
 #### 💻 Programming languages and tools I'm learning: 
 <br />
